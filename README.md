@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mohitgupta121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohitgupta121" height="30" width="40" /></a>
-<a href="https://twitter.com/mohitgu83795226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohitgu83795226" height="30" width="40" /></a>
+<a href="https://twitter.com/Mohit_Gupta121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohitgu83795226" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohitgupta121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitgupta121" height="30" width="40" /></a>
 <a href="https://instagram.com/guptawebnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guptawebnet" height="30" width="40" /></a>
 </p>
