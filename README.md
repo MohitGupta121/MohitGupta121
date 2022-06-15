@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android Developer and A Contributor.</h3>
  
 
-- 🔭 I’m currently working on **Open Source, Singtico, GSSoc'22**
+- 🔭 I’m currently working on **Open Source, Singtico, Offical College Android APP**
 
 - 🌱 I’m currently learning **Android, Kotlin, Rest API, DSA.**
 
