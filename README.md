@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Android Developer and A Contributor.</h3>
 <h3 align="center">Google Developer Student Club Lead 2022-23</h3>
  
-- 🔭 I’m currently working on **Open Source, Singtico, Offical College Android APP**
+- 🔭 I’m currently working on **Open Source, Offical College Android APP**
 
 - 🌱 I’m currently learning **Android, Kotlin, Rest API, DSA.**
 
 - 👯 I’m looking to collaborate with **other developers.**
 
-- 🏫 I am currently in my **second year.**
+- 🏫 I am currently in my **pre final year.**
 
 - ⚡ Fun fact **I love to do Spiritual activities.**
 
