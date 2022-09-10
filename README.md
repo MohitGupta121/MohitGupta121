@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate with **other developers.**
 
-- 🏫 I am currently in my **pre final year.**
+- 🏫 I am currently in my **Pre final year.**
 
 - ⚡ Fun fact **I love to do Spiritual activities.**
 
