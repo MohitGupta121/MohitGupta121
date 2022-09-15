@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I love to do Spiritual activities.**
 
-- 📫 How to reach me mohitgupta7780@gmail.com**
+- 📫 How to reach me mohitgupta7780@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
