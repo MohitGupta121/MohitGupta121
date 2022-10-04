@@ -27,8 +27,10 @@
 
 <br>
 <p align="center">
+<!--
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MohitGupta121&show_icons=true&theme=bear&count_private=true" alt="JayB's github stats" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitGupta121&theme=bear&layout=compact" alt="JayB's github top languages" />
+  -->
 </p>
 <p align="center">
     <img  height="150em" alt="Mohit's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MohitGupta121&theme=bear"/>
