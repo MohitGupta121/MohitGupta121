@@ -4,7 +4,7 @@
  
 - 🔭 I’m currently working on **Open Source, Offical College Android APP**
 
-- 🌱 I’m currently learning **Android, Kotlin, Rest API, DSA.**
+- 🌱 I’m currently learning **JetPack Compose, Unit Tests, MERN.**
 
 - 👯 I’m looking to collaborate with **other developers.**
 
