@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Gupta</h1>
-<h3 align="center">A passionate Android Developer and A Contributor.</h3>
+<h3 align="center">A passionate Android Developer and a Open Source Contributor.</h3>
 <h3 align="center">Google Developer Student Club Lead 2022-23</h3>
  
 - 🔭 I’m currently working with **IPS ACADEMY INDORE TECHNICAL TEAM**
@@ -10,10 +10,10 @@
 
 - 🏫 I am currently in my **Pre final year.**
 
-- ⚡ Fun fact **I love to do Spiritual activities.**
+- ⚡ Fun fact **I love to take part in Spiritual activities.**
 
 - 📫 How to reach me mohitgupta7780@gmail.com
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mohitgupta121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohitgupta121" height="30" width="40" /></a>
