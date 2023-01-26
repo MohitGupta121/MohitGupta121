@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Android Developer and A Contributor.</h3>
 <h3 align="center">Google Developer Student Club Lead 2022-23</h3>
  
-- 🔭 I’m currently working on **Open Source, Offical College Android APP**
+- 🔭 I’m currently working with **IPS ACADEMY INDORE TECHNICAL TEAM**
+
+- 👯 I have been contributing at [Oppia-Android](https://github.com/oppia/oppia-android)
 
 - 🌱 I’m currently learning **JetPack Compose, Unit Tests, MERN.**
-
-- 👯 I’m looking to collaborate with **other developers.**
 
 - 🏫 I am currently in my **Pre final year.**
 
