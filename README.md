@@ -6,7 +6,7 @@
 
 - 👯 I have been contributing at [Oppia-Android](https://github.com/oppia/oppia-android)
 
-- 🌱 I’m currently learning **JetPack Compose, Unit Tests, MERN.**
+- 🌱 I’m currently learning **JetPack Compose, Unit Tests, MERN, Bazel.**
 
 - 🏫 I am currently in my **Pre final year.**
 
