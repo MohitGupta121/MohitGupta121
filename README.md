@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android Developer and a Open Source Contributor.</h3>
 <h3 align="center">Google Developer Student Club Lead 2022-23</h3>
  
-- 🔭 I’m currently working with **MRU, Canada**
+- 🔭 I’m currently working on **Android Apps**
 
 - 👯 I have been contributing at [Oppia-Android](https://github.com/oppia/oppia-android)
 
